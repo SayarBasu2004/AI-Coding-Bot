@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 #  AI Coding Bot
 
 An AI-powered coding assistant built using **Streamlit** and **Mistral-7B (Hugging Face)**.
