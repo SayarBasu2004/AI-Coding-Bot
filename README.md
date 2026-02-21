@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #  AI Coding Bot
 
 An AI-powered coding assistant built using **Streamlit** and **Mistral-7B (Hugging Face)**.
@@ -22,3 +23,4 @@ AI-Coding-Bot/
 ├── prompts.py
 ├── requirements.txt
 └── README.md
+
