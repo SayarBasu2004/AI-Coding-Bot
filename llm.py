@@ -3,7 +3,7 @@ from huggingface_hub import InferenceClient
 
 # Create Hugging Face inference client
 client = InferenceClient(
-    model="mistralai/Mistral-7B-Instruct-v0.2",
+    model="meta-llama/Meta-Llama-3-8B-Instruct"
     token=os.getenv("HUGGINGFACE_API_KEY")
 )
 
